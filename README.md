@@ -6,6 +6,6 @@
  </br>
  </br>
  
-🌍 I use Html , CSS , Javascript and React to create the websites
+🌍 I use Html , CSS , Javascript , React and Next.js to create the websites
 
 
